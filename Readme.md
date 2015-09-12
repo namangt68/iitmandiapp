@@ -1,0 +1,1 @@
+A very basic test android app about IIT Mandi developed using MIT app inventor.
